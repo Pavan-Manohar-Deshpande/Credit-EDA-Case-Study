@@ -1,5 +1,5 @@
 # Credit-EDA-Case-Study
-Business Understanding: 
+	Business Understanding: 
 The loan providing companies find it hard to give loans to the 
 people due to their insufficient or non-existent credit history. 
 Because of that, some consumers use it as their advantage by 
@@ -12,7 +12,9 @@ the loan results in a loss of business to the company
 If the applicant is not likely to repay the loan, i.e. he/she is 
 likely to default, then approving the loan may lead to a 
 financial loss for the company. 
-Business Objectives: 
+
+
+	Business Objectives: 
 This case study aims to identify patterns which indicate if a 
 client has difficulty paying their installments which may be 
 used for taking actions such as denying the loan, reducing the 
